@@ -1,0 +1,12 @@
+body{
+  background-color: gray;
+}
+
+#container{
+  width: 800px;
+  margin: 50px auto;
+}
+
+#canvas{
+  background-color: aliceblue;
+}
